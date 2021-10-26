@@ -1,8 +1,12 @@
 RENCANA KULIAH WPI
 -Bisa mendalami python
+  * python
 -Bisa mendalami html
   * website sederhana
   * website sederhana ke 2
 -Bisa mendalami php
+  * laravel
 -BIsa mendalami css
 -Bisa mendalami codeigniter
+-Javascript
+  * react
