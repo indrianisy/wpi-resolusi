@@ -8,3 +8,5 @@ RENCANA KULIAH WPI
   * laravel
 -BIsa mendalami css
 -Bisa mendalami codeigniter
+-Javascript
+  * react
