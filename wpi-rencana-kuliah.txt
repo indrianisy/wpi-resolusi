@@ -1,0 +1,5 @@
+RENCANA KULIAH WPI
+-Bisa mendalami html
+-Bisa mendalami php
+-BIsa mendalami css
+-Bisa mendalami codeigniter
